@@ -44,8 +44,8 @@ function OrphanagesMap() {
         </header>
 
         <footer>
-          <strong>Rio do Sul</strong>
-          <span>Santa Catarina</span>
+          <strong>São Paulo</strong>
+          <span>São Paulo</span>
         </footer>
       </aside>
 
